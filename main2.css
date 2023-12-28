@@ -1,10 +1,6 @@
-h1 {
-    color: green;
-
+class="Red" {
+    color:red;
 }
-
-p {
-    color: green;}
-
-
-    
+class="Blue" {
+    color:blue;
+}
