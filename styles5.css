@@ -5,7 +5,8 @@
 }
 
 .outer {
-    background_color: #bbbbbb;
+    background: url('background_watercolors.avif');
+    background-size: cover;
     padding: 10px;
     border: 2px solid black;
 }
