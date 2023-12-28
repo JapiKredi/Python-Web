@@ -1,0 +1,9 @@
+body {
+    font-family: -apple-system, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, sans-serif;
+    color: #002244;
+}
+p {
+    line-height: 150%;
+    margin-bottom: 1.5rem;
+}
+
