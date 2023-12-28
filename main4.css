@@ -1,6 +1,7 @@
 main, a {
+    background-color: greenyellow;
     color:red;
     text-decoration-color:aqua ;
-    border: 1px currentColor;
+    border: 1px solid currentColor;
     
 }
