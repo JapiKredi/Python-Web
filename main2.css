@@ -1,6 +1,9 @@
-.Red {
+h1, .red {
     color:red;
 }
-.Blue {
-    color:blue;
+.blue {
+    color:rgb(255, 255, 255);
+}
+#orange {
+    color:orchid
 }
