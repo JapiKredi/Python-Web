@@ -18,6 +18,11 @@ main {
 
 }
 
+h1 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
 p {
     line-height: 150%;
     margin-bottom: 1.5rem;
