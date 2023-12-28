@@ -44,8 +44,9 @@ body {
 
 .button {
     margin-top: 1rem;
+    color: #f4f1de
     padding: 0.5rem 1rem;
-    background: #f2cc8f;
+    background: #e07a5f;
     border: none;
     border-radius: 4px;
     cursor: pointer;
