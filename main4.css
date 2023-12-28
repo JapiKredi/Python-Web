@@ -1,4 +1,5 @@
-main {
+main, a {
     color:red;
-
+    text-decoration-color:aqua ;
+    
 }
