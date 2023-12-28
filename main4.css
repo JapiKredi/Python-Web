@@ -1,5 +1,6 @@
 main, a {
     color:red;
     text-decoration-color:aqua ;
+    border: 1px currentColor;
     
 }
